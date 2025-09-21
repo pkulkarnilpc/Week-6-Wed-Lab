@@ -1,4 +1,4 @@
-# Lab 8
+# Week 6 Wed Lab
 
 ## Directions
 
@@ -17,3 +17,4 @@ The following is what your program should display (quickly!) if you converted al
 10! = 3628800
 50th Fibonacci number is 3996334433
 ```
+
